@@ -1,3 +1,9 @@
 from django.shortcuts import render
 
-# Create your views here.
+
+def home_page():
+    return 'hello world'
+
+
+def second_page():
+    return 'segunda pagina'
