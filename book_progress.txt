@@ -6,3 +6,19 @@ before start chapter one, we're going to install django and selenium
 now generate the requirements
 
 after creating a new file called functional_tests.py, we are going to create a django project
+
+
+chapter 2
+
+functional tests --> user's point of view, it is end-to-end tests
+
+setUp and tearDown run just before and after each test
+
+Useful TDD Concepts
+User Story
+A description of how the application will work from the point of view of the user.
+Used to structure a functional test.
+Expected failure
+When a test fails in the way that we expected it to
+
+
